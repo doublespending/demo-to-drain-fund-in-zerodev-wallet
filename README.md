@@ -1,4 +1,5 @@
 # Demo to drain fund of zerodev kernel wallet with WeightedECDSAValidator
+The code [here](https://github.com/zerodevapp/kernel/blob/31180268020830c4ef794f68b3bb60dac9ecfa05/src/validator/WeightedECDSAValidator.sol#L231-L234) introduces the attack.
 
 ## Conditions
 
